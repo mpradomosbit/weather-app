@@ -1,7 +1,7 @@
 import React from 'react';
 import WeatherLocation from "./index";
 import PropTypes from 'prop-types';
-import './styles.css';
+import '../css/style.css';
 
 
 
